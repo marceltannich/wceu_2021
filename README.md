@@ -1,5 +1,8 @@
-## Workshop "WP-CLI - How to manage WordPress from the command-line" @ WordCamp Europe 2021
-https://europe.wordcamp.org/2021/session/wp-cli-how-to-manage-wordpress-from-the-command-line/
+![WP-CLI - How to manage WordPress from the command-line](https://i.ibb.co/tZY34qK/wp-cli-github.pngg)
+
+## Workshop "WP-CLI - How to manage WordPress from the command-line" 
+
+@ [WordCamp Europe 2021](https://europe.wordcamp.org/2021/session/wp-cli-how-to-manage-wordpress-from-the-command-line/)
 
 WP-CLI is the official command-line interface for WordPress. It provides a collection of commands that can be used to perform various WordPress actions such as plugin & theme installations, core updates, configurations or backups without using a browser.
 
@@ -246,4 +249,5 @@ Creates a new "Team" block for the "Astra" theme
 ### Let's connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceltannich/)](https://www.linkedin.com/in/marceltannich/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MarcelTannich)](https://twitter.com/MarcelTannich) 
+
 **[marceltannich.com](https://www.marceltannich.com/)**
