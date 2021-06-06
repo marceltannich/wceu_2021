@@ -10,7 +10,7 @@ In this workshop, I will teach you the basics of WP-CLI and present useful comma
 
 ---
 #### Slides
-You can find the slides of this workshop on [https://speakerdeck.com/](https://europe.wordcamp.org/2021/session/wp-cli-how-to-manage-wordpress-from-the-command-line/)
+You can find the slides of this workshop on [https://speakerdeck.com/](https://speakerdeck.com/marceltannich/wp-cli-how-to-manage-wordpress-from-the-command-line)
 
 #### WP-CLI Handbook
 - https://make.wordpress.org/cli/handbook/
